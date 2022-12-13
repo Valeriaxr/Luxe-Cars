@@ -2,15 +2,20 @@
 
 Team:
 
-* Person 1 - Which microservice?
-* Person 2 - Christian Rodriguez: Sales Microservice
+* Valeria - Service
+* Person 2 - Which microservice?
 
 ## Design
 
+
+
 ## Service microservice
 
-Explain your models and integration with the inventory
-microservice, here.
+For services I created two microservices - Technician and ServiceAppt. I made one value object for
+automobile in order to compare the vin for vip members.
+
+
+
 
 ## Sales microservice
 
