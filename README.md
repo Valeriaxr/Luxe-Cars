@@ -3,9 +3,9 @@
 Team:
 
 * Valeria - Service
-* Person 2 - Which microservice?
+* Christian
 
-## Design
+
 
 
 
@@ -15,9 +15,3 @@ I designed the models for a service that included a Technician, ServiceAppointme
 
 
 
-
-
-## Sales microservice
-
-Explain your models and integration with the inventory
-microservice, here.
